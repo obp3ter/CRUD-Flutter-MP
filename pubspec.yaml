@@ -1,0 +1,24 @@
+name: reflectable_flutter
+description: A minimal example using reflectable with Flutter.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: any
+  reflectable: any
+  build_runner: any
+  built_value_generator: any
+  mvc_pattern: ^3.0.0
+  sqflite: ^1.1.0
+  path_provider: ^0.5.0+1
+  http: ^0.11.3+16
+  intl: ^0.15.8
+  datetime_picker_formfield: ^0.1.8
+  fluttertoast: ^3.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

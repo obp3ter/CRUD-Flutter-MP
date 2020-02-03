@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+*.iml
+pubspec.lock
+*.reflectable.dart
+android/.gitignore
+ios/.gitignore
+android/app/src/main/kotlin
+ios/Runner/AppDelegate.swift
+ios/Runner/Runner-Bridging-Header.h
